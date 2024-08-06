@@ -1,0 +1,22 @@
+## Project title
+Reed-Muller Encoding and Error correction Scheme.
+
+## Author
+Prabal Das
+
+## Date and Place
+ISI, Kolkata, March 2024 
+
+## Description
+1. Reed-Muller code is used for errror correction of a codeword.
+2. In this program I did an encoding of an message, error mixing with certain probability and decoding of a codeword.
+3. After running the program, it will ask for an message input which it will encode.
+4. Then it will ask for an error probabilty, p, in which the bit flip error can happen in the channel.
+5. Then it will show the erroneous codeword and the correct decoding of the codeword.
+6. If the no. of bit flip exceeds certain range(In which Reed_Muller can correct), it will pop up an ERROR message.
+
+## License
+This project is licensed under the MIT License.
+
+## Happy Coding!!
+Thank you for exploring this project. I hope this project proves valuable to you. Your contributions and feedback are greatly appreciated as I continue to evolve and improve. Happy coding!
